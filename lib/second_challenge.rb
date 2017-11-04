@@ -11,6 +11,6 @@ def second_challenge
   all_products = products.flatten
 
   all_products
-  
+
 
 end
